@@ -4,12 +4,12 @@ A Contact Book 📖 to store, manage, and search contacts efficiently. Users can
 
 ### 🛠️ Features:  
 
-✅ Add Contact – Store names, phone numbers, emails, and addresses.  
-✅ View Contact List – Displays all saved contacts.  
-✅ Search Contact – Find contacts by name or phone number. 
-✅ Update Contact – Modify contact details. 
-✅ Delete Contact – Remove unwanted contacts.  
-✅ Interactive CLI – User-friendly command-line interface.  
+✅ Add Contact – Store names, phone numbers, emails, and addresses.   
+✅ View Contact List – Displays all saved contacts.   
+✅ Search Contact – Find contacts by name or phone number.  
+✅ Update Contact – Modify contact details.   
+✅ Delete Contact – Remove unwanted contacts.    
+✅ Interactive CLI – User-friendly command-line interface.     
 
 ### 🔧 Technologies Used:  
 
